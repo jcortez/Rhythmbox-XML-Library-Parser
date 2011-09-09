@@ -1,0 +1,50 @@
+What is it?
+-----------
+Rhythmbox XML Library Parser is what its title implies: a XML parser for a 
+Rhythmbox library. It creates Song objects that contain information about
+each song obtained from a Rhythmbox library, and they are added to an array
+list so that information about every song in a library can be obtained and
+manipulated.
+
+How to use
+----------
+Create a RhythmboxXMLLibraryParser parser and call parseLibrary() on it as 
+follows:
+
+RhythmboxXMLLibraryParser parser = new RhythmboxXMLLibraryParser();
+parser.parseLibrary();
+
+The parseLibrary() method throws certain exceptions, so they must be handled. 
+
+The constructor RhythmboxXMLLibraryParser() uses the default location for a
+Rhythmbox XML library ([user's home]/.local/share/rhythmbox/rhythmdb.xml),
+but a different location for a library can be specified with the alternate 
+constructor:
+RhythmboxXMLLibraryParser parser = new RhythmboxXMLLibraryParser("[new location]");
+
+What can be done with a Rhythmbox parser after it parsed a library?
+---------------------------------------------------------------------
+Print out information on every song (title, bitrate, etc.) in a Rhythmbox 
+library to System.out:
+parser.printLibrary();
+
+Search a Rhythmbox library for a song by title and return its location (a 
+SongNotFoundException is thrown if it is not found in the parsed library):
+String locationOfYesterday = parser.searchForSongByTitle("Yesterday");
+
+Return an array list of Song objects (songs in a Rhythmbox library) so that
+they can be manipulated:
+ArrayList<Song> songs = parser.returnSongs();
+
+For example, in order to print all of the titles of songs from a Rhythmbox 
+library to System.out, something similar to this will work:
+for (int i = 0; i < songs.size(); i++)
+{
+	System.out.println(songs.get(i).getTitle());
+}
+
+License
+-------
+See License.txt
+
+

@@ -1,0 +1,289 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="1.7">
+  <entry type="song">
+    <title>If I Needed Someone</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>13</track-number>
+    <disc-number>1</disc-number>
+    <duration>143</duration>
+    <file-size>5784103</file-size>
+    <location>location</location>
+    <mtime>1236943182</mtime>
+    <first-seen>1313717358</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Wait</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>12</track-number>
+    <duration>135</duration>
+    <file-size>5440301</file-size>
+    <location>location</location>
+    <mtime>1236943182</mtime>
+    <first-seen>1313717358</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>I'm Looking Through You</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>10</track-number>
+    <duration>146</duration>
+    <file-size>5890690</file-size>
+    <location>location</location>
+    <mtime>1236943172</mtime>
+    <first-seen>1313717358</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Michelle</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>7</track-number>
+    <duration>164</duration>
+    <file-size>6632538</file-size>
+    <location>location</location>
+    <mtime>1236943166</mtime>
+    <first-seen>1313717356</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Girl</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>9</track-number>
+    <duration>150</duration>
+    <file-size>6050522</file-size>
+    <location>location</location>
+    <mtime>1236943172</mtime>
+    <first-seen>1313717356</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Run For Your Life</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>14</track-number>
+    <duration>142</duration>
+    <file-size>5720360</file-size>
+    <location>location</location>
+    <mtime>1236943182</mtime>
+    <first-seen>1313717358</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Nowhere Man</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>4</track-number>
+    <duration>164</duration>
+    <file-size>6628364</file-size>
+    <location>location</location>
+    <mtime>1236943156</mtime>
+    <first-seen>1313717353</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>The Word</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>6</track-number>
+    <duration>163</duration>
+    <file-size>6592832</file-size>
+    <location>location</location>
+    <mtime>1236943162</mtime>
+    <first-seen>1313717356</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>What Goes On</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>8</track-number>
+    <duration>168</duration>
+    <file-size>6779876</file-size>
+    <location>location</location>
+    <mtime>1236943166</mtime>
+    <first-seen>1313717356</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>In My Life</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>11</track-number>
+    <duration>147</duration>
+    <file-size>5927236</file-size>
+    <location>location</location>
+    <mtime>1236943176</mtime>
+    <first-seen>1313717358</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Drive My Car</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>1</track-number>
+    <duration>150</duration>
+    <file-size>6078750</file-size>
+    <location>location</location>
+    <mtime>1236943658</mtime>
+    <first-seen>1313717353</first-seen>
+    <last-seen>1314394401</last-seen>
+    <play-count>1</play-count>
+    <last-played>1313717535</last-played>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>You Won't See Me</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>3</track-number>
+    <duration>203</duration>
+    <file-size>8161239</file-size>
+    <location>location</location>
+    <mtime>1236943152</mtime>
+    <first-seen>1313717353</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Norwegian Wood (This Bird Has Flown)</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>2</track-number>
+    <duration>125</duration>
+    <file-size>5069426</file-size>
+    <location>location</location>
+    <mtime>1236943152</mtime>
+    <first-seen>1313717353</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Think For Yourself</title>
+    <genre>Classic Rock</genre>
+    <artist>The Beatles</artist>
+    <album>Rubber Soul</album>
+    <track-number>5</track-number>
+    <duration>139</duration>
+    <file-size>5625276</file-size>
+    <location>location</location>
+    <mtime>1236943156</mtime>
+    <first-seen>1313717356</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>320</bitrate>
+    <date>717337</date>
+    <mimetype>application/x-id3</mimetype>
+    <album-artist>The Beatles</album-artist>
+  </entry>
+  <entry type="song">
+    <title>Hotel California</title>
+    <genre>Rock</genre>
+    <artist>Eagles</artist>
+    <album>Hotel California</album>
+    <track-number>1</track-number>
+    <duration>391</duration>
+    <file-size>15581962</file-size>
+    <location>location</location>
+    <mtime>1237256530</mtime>
+    <first-seen>1313717309</first-seen>
+    <last-seen>1314394401</last-seen>
+    <bitrate>96</bitrate>
+    <date>721354</date>
+    <mimetype>application/x-id3</mimetype>
+  </entry>
+  <entry type="song">
+    <title>Rope</title>
+    <genre>Rock</genre>
+    <artist>Foo Fighters</artist>
+    <album>Rope - Single</album>
+    <track-number>1</track-number>
+    <duration>259</duration>
+    <file-size>10547658</file-size>
+    <location>location</location>
+    <mtime>1300563320</mtime>
+    <first-seen>1313717309</first-seen>
+    <last-seen>1314394401</last-seen>
+    <rating>5</rating>
+    <bitrate>320</bitrate>
+    <date>734138</date>
+    <mimetype>application/x-id3</mimetype>
+    <comment>Comments!</comment>
+    <album-artist>Foo Fighters</album-artist>
+    <beats-per-minute>9000</beats-per-minute>
+  </entry>
+  <entry type="iradio">
+    <title>Absolute Classic Rock (Broadband)</title>
+    <genre>Rock'n'Roll</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vcbb</location>
+    <date>0</date>
+    <mimetype>application/octet-stream</mimetype>
+  </entry>
+</rhythmdb>
