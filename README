@@ -20,24 +20,31 @@ The constructor RhythmboxXMLLibraryParser() uses the default location for a
 Rhythmbox XML library ([user's home]/.local/share/rhythmbox/rhythmdb.xml),
 but a different location for a library can be specified with the alternate 
 constructor:
+
 RhythmboxXMLLibraryParser parser = new RhythmboxXMLLibraryParser("[new location]");
+
+To run the tests in TestLibraryParser, JUnit 4 must be added to the build path.
 
 What can be done with a Rhythmbox parser after it parsed a library?
 ---------------------------------------------------------------------
 Print out information on every song (title, bitrate, etc.) in a Rhythmbox 
 library to System.out:
+
 parser.printLibrary();
 
 Search a Rhythmbox library for a song by title and return its location (a 
 SongNotFoundException is thrown if it is not found in the parsed library):
+
 String locationOfYesterday = parser.searchForSongByTitle("Yesterday");
 
 Return an array list of Song objects (songs in a Rhythmbox library) so that
 they can be manipulated:
+
 ArrayList<Song> songs = parser.returnSongs();
 
 For example, in order to print all of the titles of songs from a Rhythmbox 
 library to System.out, something similar to this will work:
+
 for (int i = 0; i < songs.size(); i++)
 {
 	System.out.println(songs.get(i).getTitle());
